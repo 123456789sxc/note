@@ -157,3 +157,76 @@ summit  n.峰会
 ![1682842557509](Computer English.assets/1682842557509.png)
 
 **Oops** 相当于"哎呀”。经常带着“自我吃惊”的意思。有时候也会带抱歉的意思，但是一般来说这个词不能代替真正的抱歉。
+
+
+
+index 索引
+
+有两种复数形式：indexes and indices
+
+
+
+
+
+
+
+may,might,could的用法：
+
+1. 表示可能性,可能
+2. 表示允许，能够，可以
+
+翻译的时候老是翻译成第一个，然后读着不顺就懵了。
+
+
+
+start from scratch  从零开始
+
+
+
+command palette  命令面板
+
+
+
+get up with  获得
+
+
+
+cadence  n.节奏
+
+update cadence 更新频率
+
+
+
+"a handful of" 是一个英语表达，意思是一小撮、一小部分或者一些。它常用来表示数量不多或者数量有限的事物。
+
+
+
+
+
+Telemetry是指通过收集、测量和传输数据来监测、记录和报告远程设备或系统的运行状态和性能的过程。在软件领域，telemetry通常用于收集应用程序或系统的使用数据、错误报告、性能指标等信息，以便进行分析和改进。Telemetry可以帮助开发者了解软件的运行情况、用户行为和问题，并支持对软件进行优化和修复。
+
+seamlessly adv.无缝地
+
+
+
+preference 和 reference
+
+偏好                  参考
+
+
+
+chord
+
+音乐方面，和弦，是指组合两个及以上的音的音。
+
+计算机方面，组合键，key of chord。
+
+chord有组合的意思
+
+
+
+adopt 采用
+
+intuitive a.直觉的
+
+ample a.足够的，丰裕的
